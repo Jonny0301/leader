@@ -1,0 +1,36 @@
+{
+  "node_modules/intl-tel-input/build/img/flags.webp": {
+    "file": "assets/flags-336016fc.webp",
+    "src": "node_modules/intl-tel-input/build/img/flags.webp"
+  },
+  "node_modules/intl-tel-input/build/img/flags@2x.webp": {
+    "file": "assets/flags@2x-0417913c.webp",
+    "src": "node_modules/intl-tel-input/build/img/flags@2x.webp"
+  },
+  "node_modules/intl-tel-input/build/img/globe.webp": {
+    "file": "assets/globe-837a1f6f.webp",
+    "src": "node_modules/intl-tel-input/build/img/globe.webp"
+  },
+  "node_modules/intl-tel-input/build/img/globe@2x.webp": {
+    "file": "assets/globe@2x-23f37b62.webp",
+    "src": "node_modules/intl-tel-input/build/img/globe@2x.webp"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app-75c5aa11.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/js/app.js": {
+    "assets": [
+      "assets/flags-336016fc.webp",
+      "assets/flags@2x-0417913c.webp",
+      "assets/globe-837a1f6f.webp",
+      "assets/globe@2x-23f37b62.webp"
+    ],
+    "css": [
+      "assets/app-75c5aa11.css"
+    ],
+    "file": "assets/app-25f58aca.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}
